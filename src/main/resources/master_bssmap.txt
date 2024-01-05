@@ -1,0 +1,129 @@
+COD_BSSMAP;BSSMAP
+0;Normal event
+1;Normal event
+2;Normal event
+3;Normal event
+4;Normal event
+5;Normal event
+6;Normal event
+7;Normal event
+8;Normal event
+9;Normal event
+10;Normal event
+11;Normal event
+12;Normal event
+13;Normal event
+14;Normal event
+15;Normal event
+16;Normal event
+17;Normal event
+18;Normal event
+19;Normal event
+20;Normal event
+21;Normal event
+22;Normal event
+23;Normal event
+24;Normal event
+25;Normal event
+26;Normal event
+27;Normal event
+28;Normal event
+29;Normal event
+30;Normal event
+31;Normal event
+32;Resource unavailable
+33;Resource unavailable
+34;Resource unavailable
+35;Resource unavailable
+36;Resource unavailable
+37;Resource unavailable
+38;Resource unavailable
+39;Resource unavailable
+40;Resource unavailable
+41;Resource unavailable
+42;Resource unavailable
+43;Resource unavailable
+44;Resource unavailable
+45;Resource unavailable
+46;Resource unavailable
+47;Resource unavailable
+48;Service or option not available
+49;Service or option not available
+50;Service or option not available
+51;Service or option not available
+52;Service or option not available
+53;Service or option not available
+54;Service or option not available
+55;Service or option not available
+56;Service or option not available
+57;Service or option not available
+58;Service or option not available
+59;Service or option not available
+60;Service or option not available
+61;Service or option not available
+62;Service or option not available
+63;Service or option not available
+64;Service or option not implemented
+65;Service or option not implemented
+66;Service or option not implemented
+67;Service or option not implemented
+68;Service or option not implemented
+69;Service or option not implemented
+70;Service or option not implemented
+71;Service or option not implemented
+72;Service or option not implemented
+73;Service or option not implemented
+74;Service or option not implemented
+75;Service or option not implemented
+76;Service or option not implemented
+77;Service or option not implemented
+78;Service or option not implemented
+79;Service or option not implemented
+80;Invalid message (for example, parameter out of range)
+81;Invalid message (for example, parameter out of range)
+82;Invalid message (for example, parameter out of range)
+83;Invalid message (for example, parameter out of range)
+84;Invalid message (for example, parameter out of range)
+85;Invalid message (for example, parameter out of range)
+86;Invalid message (for example, parameter out of range)
+87;Invalid message (for example, parameter out of range)
+88;Invalid message (for example, parameter out of range)
+89;Invalid message (for example, parameter out of range)
+90;Invalid message (for example, parameter out of range)
+91;Invalid message (for example, parameter out of range)
+92;Invalid message (for example, parameter out of range)
+93;Invalid message (for example, parameter out of range)
+94;Invalid message (for example, parameter out of range)
+95;Invalid message (for example, parameter out of range)
+96;Protocol error (for example, unknown message)
+97;Protocol error (for example, unknown message)
+98;Protocol error (for example, unknown message)
+99;Protocol error (for example, unknown message)
+100;Protocol error (for example, unknown message)
+101;Protocol error (for example, unknown message)
+102;Protocol error (for example, unknown message)
+103;Protocol error (for example, unknown message)
+104;Protocol error (for example, unknown message)
+105;Protocol error (for example, unknown message)
+106;Protocol error (for example, unknown message)
+107;Protocol error (for example, unknown message)
+108;Protocol error (for example, unknown message)
+109;Protocol error (for example, unknown message)
+110;Protocol error (for example, unknown message)
+111;Protocol error (for example, unknown message)
+112;Interworking
+113;Interworking
+114;Interworking
+115;Interworking
+116;Interworking
+117;Interworking
+118;Interworking
+119;Interworking
+120;Interworking
+121;Interworking
+122;Interworking
+123;Interworking
+124;Interworking
+125;Interworking
+126;Interworking
+127;Interworking

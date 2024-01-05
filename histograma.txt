@@ -1,0 +1,5 @@
+Percentil 95: 13.0 ms
+Percentil 98: 13.0 ms
+Histograma de tiempos de ejecución:
+Value 	 Freq. 	 Pct. 	 Cum Pct. 
+13	1	100 %	100 %

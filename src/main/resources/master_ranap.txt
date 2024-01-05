@@ -1,0 +1,257 @@
+COD_RANUP;RANUP
+1;Radio Network Layer Cause
+2;Radio Network Layer Cause
+3;Radio Network Layer Cause
+4;Radio Network Layer Cause
+5;Radio Network Layer Cause
+6;Radio Network Layer Cause
+7;Radio Network Layer Cause
+8;Radio Network Layer Cause
+9;Radio Network Layer Cause
+10;Radio Network Layer Cause
+11;Radio Network Layer Cause
+12;Radio Network Layer Cause
+13;Radio Network Layer Cause
+14;Radio Network Layer Cause
+15;Radio Network Layer Cause
+16;Radio Network Layer Cause
+17;Radio Network Layer Cause
+18;Radio Network Layer Cause
+19;Radio Network Layer Cause
+20;Radio Network Layer Cause
+21;Radio Network Layer Cause
+22;Radio Network Layer Cause
+23;Radio Network Layer Cause
+24;Radio Network Layer Cause
+25;Radio Network Layer Cause
+26;Radio Network Layer Cause
+27;Radio Network Layer Cause
+28;Radio Network Layer Cause
+29;Radio Network Layer Cause
+30;Radio Network Layer Cause
+31;Radio Network Layer Cause
+32;Radio Network Layer Cause
+33;Radio Network Layer Cause
+34;Radio Network Layer Cause
+35;Radio Network Layer Cause
+36;Radio Network Layer Cause
+37;Radio Network Layer Cause
+38;Radio Network Layer Cause
+39;Radio Network Layer Cause
+40;Radio Network Layer Cause
+41;Radio Network Layer Cause
+42;Radio Network Layer Cause
+43;Radio Network Layer Cause
+44;Radio Network Layer Cause
+45;Radio Network Layer Cause
+46;Radio Network Layer Cause
+47;Radio Network Layer Cause
+48;Radio Network Layer Cause
+49;Radio Network Layer Cause
+50;Radio Network Layer Cause
+51;Radio Network Layer Cause
+52;Radio Network Layer Cause
+53;Radio Network Layer Cause
+54;Radio Network Layer Cause
+55;Radio Network Layer Cause
+56;Radio Network Layer Cause
+57;Radio Network Layer Cause
+58;Radio Network Layer Cause
+59;Radio Network Layer Cause
+60;Radio Network Layer Cause
+61;Radio Network Layer Cause
+62;Radio Network Layer Cause
+63;Radio Network Layer Cause
+64;Radio Network Layer Cause
+65;Transport Layer Cause
+66;Transport Layer Cause
+67;Transport Layer Cause
+68;Transport Layer Cause
+69;Transport Layer Cause
+70;Transport Layer Cause
+71;Transport Layer Cause
+72;Transport Layer Cause
+73;Transport Layer Cause
+74;Transport Layer Cause
+75;Transport Layer Cause
+76;Transport Layer Cause
+77;Transport Layer Cause
+78;Transport Layer Cause
+79;Transport Layer Cause
+80;Transport Layer Cause
+81;NAS Cause
+82;NAS Cause
+83;NAS Cause
+84;NAS Cause
+85;NAS Cause
+86;NAS Cause
+87;NAS Cause
+88;NAS Cause
+89;NAS Cause
+90;NAS Cause
+91;NAS Cause
+92;NAS Cause
+93;NAS Cause
+94;NAS Cause
+95;NAS Cause
+96;NAS Cause
+97;Protocol Cause
+98;Protocol Cause
+99;Protocol Cause
+100;Protocol Cause
+101;Protocol Cause
+102;Protocol Cause
+103;Protocol Cause
+104;Protocol Cause
+105;Protocol Cause
+106;Protocol Cause
+107;Protocol Cause
+108;Protocol Cause
+109;Protocol Cause
+110;Protocol Cause
+111;Protocol Cause
+112;Protocol Cause
+113;Miscellaneous Cause
+114;Miscellaneous Cause
+115;Miscellaneous Cause
+116;Miscellaneous Cause
+117;Miscellaneous Cause
+118;Miscellaneous Cause
+119;Miscellaneous Cause
+120;Miscellaneous Cause
+121;Miscellaneous Cause
+122;Miscellaneous Cause
+123;Miscellaneous Cause
+124;Miscellaneous Cause
+125;Miscellaneous Cause
+126;Miscellaneous Cause
+127;Miscellaneous Cause
+128;Miscellaneous Cause
+129;Non-standard Cause
+130;Non-standard Cause
+131;Non-standard Cause
+132;Non-standard Cause
+133;Non-standard Cause
+134;Non-standard Cause
+135;Non-standard Cause
+136;Non-standard Cause
+137;Non-standard Cause
+138;Non-standard Cause
+139;Non-standard Cause
+140;Non-standard Cause
+141;Non-standard Cause
+142;Non-standard Cause
+143;Non-standard Cause
+144;Non-standard Cause
+145;Non-standard Cause
+146;Non-standard Cause
+147;Non-standard Cause
+148;Non-standard Cause
+149;Non-standard Cause
+150;Non-standard Cause
+151;Non-standard Cause
+152;Non-standard Cause
+153;Non-standard Cause
+154;Non-standard Cause
+155;Non-standard Cause
+156;Non-standard Cause
+157;Non-standard Cause
+158;Non-standard Cause
+159;Non-standard Cause
+160;Non-standard Cause
+161;Non-standard Cause
+162;Non-standard Cause
+163;Non-standard Cause
+164;Non-standard Cause
+165;Non-standard Cause
+166;Non-standard Cause
+167;Non-standard Cause
+168;Non-standard Cause
+169;Non-standard Cause
+170;Non-standard Cause
+171;Non-standard Cause
+172;Non-standard Cause
+173;Non-standard Cause
+174;Non-standard Cause
+175;Non-standard Cause
+176;Non-standard Cause
+177;Non-standard Cause
+178;Non-standard Cause
+179;Non-standard Cause
+180;Non-standard Cause
+181;Non-standard Cause
+182;Non-standard Cause
+183;Non-standard Cause
+184;Non-standard Cause
+185;Non-standard Cause
+186;Non-standard Cause
+187;Non-standard Cause
+188;Non-standard Cause
+189;Non-standard Cause
+190;Non-standard Cause
+191;Non-standard Cause
+192;Non-standard Cause
+193;Non-standard Cause
+194;Non-standard Cause
+195;Non-standard Cause
+196;Non-standard Cause
+197;Non-standard Cause
+198;Non-standard Cause
+199;Non-standard Cause
+200;Non-standard Cause
+201;Non-standard Cause
+202;Non-standard Cause
+203;Non-standard Cause
+204;Non-standard Cause
+205;Non-standard Cause
+206;Non-standard Cause
+207;Non-standard Cause
+208;Non-standard Cause
+209;Non-standard Cause
+210;Non-standard Cause
+211;Non-standard Cause
+212;Non-standard Cause
+213;Non-standard Cause
+214;Non-standard Cause
+215;Non-standard Cause
+216;Non-standard Cause
+217;Non-standard Cause
+218;Non-standard Cause
+219;Non-standard Cause
+220;Non-standard Cause
+221;Non-standard Cause
+222;Non-standard Cause
+223;Non-standard Cause
+224;Non-standard Cause
+225;Non-standard Cause
+226;Non-standard Cause
+227;Non-standard Cause
+228;Non-standard Cause
+229;Non-standard Cause
+230;Non-standard Cause
+231;Non-standard Cause
+232;Non-standard Cause
+233;Non-standard Cause
+234;Non-standard Cause
+235;Non-standard Cause
+236;Non-standard Cause
+237;Non-standard Cause
+238;Non-standard Cause
+239;Non-standard Cause
+240;Non-standard Cause
+241;Non-standard Cause
+242;Non-standard Cause
+243;Non-standard Cause
+244;Non-standard Cause
+245;Non-standard Cause
+246;Non-standard Cause
+247;Non-standard Cause
+248;Non-standard Cause
+249;Non-standard Cause
+250;Non-standard Cause
+251;Non-standard Cause
+252;Non-standard Cause
+253;Non-standard Cause
+254;Non-standard Cause
+255;Non-standard Cause
+256;Non-standard Cause

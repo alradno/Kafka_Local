@@ -1,0 +1,661 @@
+MCC+MNC;IMSI_OPERADOR;IMSI_PAIS;ZONA_ROAMING
+20201;Cosmote;Grecia;zona_roaming_1
+20205;Vodafone Panafon;Grecia;zona_roaming_1
+20209;Qtelecom;Grecia;zona_roaming_1
+20210;Stet Hellas (TIM);Grecia;zona_roaming_1
+20402;Tele2;Holanda;zona_roaming_1
+20404;Vodafone;Holanda;zona_roaming_1
+20408;KPN;Holanda;zona_roaming_1
+20412;Telfort / O2;Holanda;zona_roaming_1
+20416;T-Mobile;Holanda;zona_roaming_1
+20420;T-Mobile;Holanda;zona_roaming_1
+20601;Belgacom;Belgica;zona_roaming_1
+20605;Telenet;Belgica;zona_roaming_1
+20608;NETHYS;Belgica;zona_roaming_1
+20610;Mobistar;Belgica;zona_roaming_1
+20620;Base;Belgica;zona_roaming_1
+20801;Orange;Francia;zona_roaming_1
+20805;Globalstar - SATeLITE;Francia;zona_roaming_1
+20809;SFR;Francia;zona_roaming_1
+20810;SFR;Francia;zona_roaming_1
+20815;FreeMobile;Francia;zona_roaming_1
+20820;BouyguesTelecom;Francia;zona_roaming_1
+20825;LYCAMOBILE;Francia;zona_roaming_1
+21201;Monaco Telecom;Monaco;zona_roaming_3
+21210;Monaco Telecom;Monaco;zona_roaming_3
+21303;STA;Andorra;zona_roaming_2
+21401;VODAFONE;ESPA¥A;zona_roaming_1
+21402;FIBRACAT;ESPA¥A;zona_roaming_1
+21403;ORANGE;ESPA¥A;zona_roaming_1
+21404;YOIGO;ESPA¥A;zona_roaming_1
+21405;MOVISTAR;ESPA¥A;zona_roaming_1
+21406;VODAFONE;ESPA¥A;zona_roaming_1
+21407;MOVISTAR;ESPA¥A;zona_roaming_1
+21408;EUSKALTEL;ESPA¥A;zona_roaming_1
+21409;ORANGE;ESPA¥A;zona_roaming_1
+21410;OPERA;ESPA¿A;zona_roaming_1
+21415;BT;ESPA¥A;zona_roaming_1
+21416;TELECABLE;ESPA¥A;zona_roaming_1
+21417;R;ESPA¥A;zona_roaming_1
+21418;ONO;ESPA¥A;zona_roaming_1
+21419;SIMYO;ESPA¥A;zona_roaming_1
+21421;JAZZTEL;ESPA¥A;zona_roaming_1
+21422;DIGIMOBIL;ESPA¥A;zona_roaming_1
+21423;BARABLU;ESPA¥A;zona_roaming_1
+21425;LYCA;ESPA¥A;zona_roaming_1
+21427;TRUEPHONE;ESPA¥A;zona_roaming_1
+21601;Telenor;Hungria;zona_roaming_1
+21630;T-Mobile;Hungria;zona_roaming_1
+21670;Vodafone;Hungria;zona_roaming_1
+21803;HT Mobile (Eronet);Bosnia&Herzegovina;zona_roaming_2
+21805;m:tel;Bosnia&Herzegovina;zona_roaming_2
+21890;BH (PTT BIM);Bosnia&Herzegovina;zona_roaming_2
+21901;T-Mobile;Croacia;zona_roaming_1
+21902;Tele2;Croacia;zona_roaming_1
+21910;VIP-NET;Croacia;zona_roaming_1
+22001;Telenor;Serbia;zona_roaming_2
+22002;Telenor;Montenegro;zona_roaming_2
+22003;Telekom Srbija;Serbia;zona_roaming_2
+22004;T-Mobile;Montenegro;zona_roaming_2
+22005;VIP Mobile;Serbia;zona_roaming_2
+22201;TIM;Italia;zona_roaming_1
+22210;Vodafone Omnitel;Italia;zona_roaming_1
+22236;DIGI;Italia;zona_roaming_1
+22250;FREE MOBILE;Italia;zona_roaming_1
+22256;MASS RESPONSE;Italia;zona_roaming_1
+22288;Wind;Italia;zona_roaming_1
+22299;H3G;Italia;zona_roaming_1
+22601;Vodafone;Rumania;zona_roaming_1
+22603;Cosmote;Rumania;zona_roaming_1
+22605;Digimobil;Rumania;zona_roaming_1
+22610;Orange;Rumania;zona_roaming_1
+22801;Swisscom;Suiza;zona_roaming_2
+22802;Sunrise;Suiza;zona_roaming_2
+22803;Orange;Suiza;zona_roaming_2
+22853;UPC CABLECOM;Suiza;zona_roaming_2
+23001;T-Mobile;Chequia;zona_roaming_1
+23002;Telefonica O2;Chequia;zona_roaming_1
+23003;Vodafone;Chequia;zona_roaming_1
+23101;Orange;Eslovaquia;zona_roaming_1
+23102;Slovak Telekom;Eslovaquia;zona_roaming_1
+23106;Telefonica (O2);Eslovaquia;zona_roaming_1
+23201;Mobilkom;Austria;zona_roaming_1
+23203;T-Mobile;Austria;zona_roaming_1
+23205;Orange;Austria;zona_roaming_1
+23207;T-Mobile;Austria;zona_roaming_1
+23210;H3G;Austria;zona_roaming_1
+23211;MOBILCOM;Austria;zona_roaming_1
+23212;Orange;Austria;zona_roaming_1
+23213;T-MOBILE;Austria;zona_roaming_1
+23217;MASS RESPONSE;Austria;zona_roaming_1
+23403;Airtel Jersey;Isla de Jersey;zona_roaming_1
+23410;Telefonica (O2) (BTCellnet);Reino Unido;zona_roaming_1
+23415;Vodafone;Reino Unido;zona_roaming_1
+23420;H3G;Reino Unido;zona_roaming_1
+23430;EE;Reino Unido;zona_roaming_1
+23433;Orange;Reino Unido;zona_roaming_1
+23450;Jersey Telecom;Isla de Jersey;zona_roaming_1
+23455;C&W;Guernsey Island;zona_roaming_1
+23457;SKY;Reino Unido;zona_roaming_1
+23458;MANX;Isla de Man/UK;zona_roaming_1
+23801;Teledanmark/TDC;Dinamarca;zona_roaming_1
+23802;Telenor;Dinamarca;zona_roaming_1
+23806;Hi3G;Dinamarca;zona_roaming_1
+23820;Telia;Dinamarca;zona_roaming_1
+24001;Telia Sonera;Suecia;zona_roaming_1
+24002;Hi3G;Suecia;zona_roaming_1
+24004;Hi3G;Suecia;zona_roaming_1
+24007;Tele2;Suecia;zona_roaming_1
+24008;Telenor;Suecia;zona_roaming_1
+24010;Tele2;Suecia;zona_roaming_1
+24014;TDC;Suecia;zona_roaming_1
+24042;Telenor;Suecia;zona_roaming_1
+24201;Telenor;Noruega;zona_roaming_1
+24202;NetCom GSM;Noruega;zona_roaming_1
+24205;Network Norway;Noruega;zona_roaming_1
+24208;TDC;Noruega;zona_roaming_1
+24214;ICE;Noruega;zona_roaming_1
+24403;DNA;Finlandia;zona_roaming_1
+24405;Elisa;Finlandia;zona_roaming_1
+24412;DNA;Finlandia;zona_roaming_1
+24414;Alands;Finlandia;zona_roaming_1
+24421;Elisa;Finlandia;zona_roaming_1
+24491;Telia Sonera;Finlandia;zona_roaming_1
+24601;Telia Sonera;Lituania;zona_roaming_1
+24602;Bite;Lituania;zona_roaming_1
+24603;Tele2;Lituania;zona_roaming_1
+24701;LMT;Letonia/latvia;zona_roaming_1
+24702;Tele2;Letonia/latvia;zona_roaming_1
+24705;Bite;Letonia/latvia;zona_roaming_1
+24801;EMT (TeliaSonera);Estonia;zona_roaming_1
+24802;ELISA (Radiolinja);Estonia;zona_roaming_1
+24803;Tele2;Estonia;zona_roaming_1
+25001;MTS;Rusia;zona_roaming_3
+25002;Megafon;Rusia;zona_roaming_3
+25003;NCC;Rusia;zona_roaming_3
+25005;ETK YeniseiTelekom;RUSIA;zona_roaming_3
+25012;BWC BaykalWestCom;Rusia;zona_roaming_3
+25017;Uraltel;Rusia;zona_roaming_3
+25020;Tele2;Rusia;zona_roaming_3
+25027;Smart Kazan;Rusia;zona_roaming_3
+25035;Ekaterimburg Motiv;Rusia;zona_roaming_3
+25039;Uraltel;Rusia;zona_roaming_3
+25077;N.D.;Rusia;zona_roaming_3
+25099;Vimpelcom;Rusia;zona_roaming_3
+25501;UMC/MTS;Ucrania;zona_roaming_3
+25502;BEELINE/URS;Ucrania;zona_roaming_3
+25503;KYIVSTAR;Ucrania;zona_roaming_3
+25505;GOLDEN TELECOM;Ucrania;zona_roaming_3
+25506;ASTELIT;Ucrania;zona_roaming_3
+25701;VELCOM (MDC);Bielorrusia;zona_roaming_3
+25702;MTS;Bielorrusia;zona_roaming_3
+25901;Orange;Moldavia;zona_roaming_3
+25902;Moldcell;Moldavia;zona_roaming_3
+26001;Polkomtel;Polonia;zona_roaming_1
+26002;ERA;Polonia;zona_roaming_1
+26003;Orange;Polonia;zona_roaming_1
+26006;P4;Polonia;zona_roaming_1
+26201;T-Mobile;Alemania;zona_roaming_1
+26202;Vodafone;Alemania;zona_roaming_1
+26203;E-Plus;Alemania;zona_roaming_1
+26207;O2;Alemania;zona_roaming_1
+26208;O2;Alemania;zona_roaming_1
+26601;GIBTEL;Gibraltar;zona_roaming_1
+26801;Vodafone Telecel;Portugal;zona_roaming_1
+26803;Optimus;Portugal;zona_roaming_1
+26806;TMN;Portugal;zona_roaming_1
+26880;MEO;Portugal;zona_roaming_1
+27001;P&T;Luxemburgo;zona_roaming_1
+27002;MTX Connect;Luxemburgo;zona_roaming_1
+27077;Tango;Luxemburgo;zona_roaming_1
+27099;Orange;Luxemburgo;zona_roaming_1
+27201;Vodafone;Irlanda;zona_roaming_1
+27202;O2Communication;Irlanda;zona_roaming_1
+27203;Meteor;Irlanda;zona_roaming_1
+27205;H3G;Irlanda;zona_roaming_1
+27211;TESCO MOBILE;Irlanda;zona_roaming_1
+27401;SIMINN;Islandia;zona_roaming_1
+27402;OGVodafone;Feroe;zona_roaming_1
+27404;IMC;Islandia;zona_roaming_1
+27408;SIMINN;Islandia;zona_roaming_1
+27411;Nova;Islandia;zona_roaming_1
+27601;AMC;Albania;zona_roaming_2
+27602;Vodafone;Albania;zona_roaming_2
+27603;Eagle;Albania;zona_roaming_2
+27604;Plus Communication;Albania;zona_roaming_2
+27801;Vodafone;Malta;zona_roaming_1
+27821;GoMobile;Malta;zona_roaming_1
+27877;Melita;Malta;zona_roaming_1
+28001;CYTA;Chipre;zona_roaming_1
+28010;MTN;Chipre;zona_roaming_1
+28020;Primetel;Chipre;zona_roaming_1
+28201;GEOCELL;Georgia;zona_roaming_3
+28202;MAGTICOMGSM;Georgia;zona_roaming_3
+28204;Mobitel;Georgia;zona_roaming_3
+28305;K Telecom;Armenia;zona_roaming_3
+28310;Orange;Armenia;zona_roaming_3
+28401;Mobitel;Bulgaria;zona_roaming_1
+28403;VivatelBTC;BULGARIA;zona_roaming_1
+28405;Globul;Bulgaria;zona_roaming_1
+28601;Turkcell;Turquia;zona_roaming_2
+28602;Vodafone;Turquia;zona_roaming_2
+28603;Avea;Turquia;zona_roaming_2
+28604;Avea;Turquia;zona_roaming_2
+28801;Faroese Telecom;Feroe (Islas);zona_roaming_2
+29001;TeleGroenlandia;Groenlandia;zona_roaming_3
+29201;San Marino Telecom / Prima;San Marino;zona_roaming_1
+29340;Vodafone;Eslovenia;zona_roaming_1
+29341;Mobitel;Eslovenia;zona_roaming_1
+29364;T-2;Eslovenia;zona_roaming_1
+29370;Tusmobil;Eslovenia;zona_roaming_1
+29401;T-Mobile;Macedonia;zona_roaming_2
+29402;Cosmofon;Macedonia;zona_roaming_2
+29403;VIP;Macedonia;zona_roaming_2
+29502;Orange;Liechtenstein;zona_roaming_1
+29505;Mobilkom;Liechtenstein;zona_roaming_1
+29509;EMNIFY;Liechtenstein;zona_roaming_1
+29510;TELECOM LI;Liechtenstein;zona_roaming_1
+29577;Alpcom (Tango Tele2 AG);Liechtenstein;zona_roaming_1
+29701;Telenor;Montenegro;zona_roaming_2
+29702;T-Mobile;Montenegro;zona_roaming_2
+29703;Mtel;Montenegro;zona_roaming_2
+30222;Telus;Canada;zona_roaming_2
+30237;Rogers;Canada;zona_roaming_2
+30250;Videotron;Canada;zona_roaming_2
+30261;Bell;Canada;zona_roaming_2
+30269;Bell;Canada;zona_roaming_2
+30272;Rogers;Canada;zona_roaming_2
+30276;Telus;Canada;zona_roaming_2
+30278;Saktel;Canada;zona_roaming_2
+30801;SPM Telecom;San Pierre Miquelon;zona_roaming_3
+31003;AT&T Cingular;EEUU;zona_roaming_2
+31012;Nextel Sprint;EEUU;zona_roaming_2
+31015;AT&T Cingular;EEUU;zona_roaming_2
+31016;T-Mobile USA;EEUU;zona_roaming_2
+31017;AT&T Cingular;EEUU;zona_roaming_2
+31020;T-Mobile USA;EEUU;zona_roaming_2
+31021;T-Mobile USA;EEUU;zona_roaming_2
+31024;T-Mobile USA;EEUU;zona_roaming_2
+31025;T-Mobile USA;EEUU;zona_roaming_2
+31026;T-Mobile USA;EEUU;zona_roaming_2
+31027;T-Mobile USA;EEUU;zona_roaming_2
+31028;AT&T Cingular;EEUU;zona_roaming_2
+31031;T-Mobile USA;EEUU;zona_roaming_2
+31038;AT&T Cingular;EEUU;zona_roaming_2
+31041;AT&T Cingular;EEUU;zona_roaming_2
+31042;Cincinnati Bell Wireless;EEUU;zona_roaming_2
+31055;MANX;Isla de Man/UK;zona_roaming_2
+31072;Manx;EEUU;zona_roaming_2
+31148;Verison Wireless;EEUU;zona_roaming_2
+31601;Nextel Sprint;EEUU;zona_roaming_2
+33011;Claro;Puerto Rico/EEUU;zona_roaming_2
+33402;Telcel;Mexico;zona_roaming_3
+33403;Movistar;Mexico;zona_roaming_3
+33405;IUSACell;Mexico;zona_roaming_3
+33414;ALTAN REDES;Mexico;zona_roaming_3
+33805;Digicel;Jamaica;zona_roaming_3
+33807;Claro;Jamaica;zona_roaming_3
+33818;C&W;Jamaica;zona_roaming_3
+34001;Orange;Francia;zona_roaming_1
+34020;Digicel Antilles;San Martin (Antillas Fr.);zona_roaming_1
+34403;APUA;Antigua y Barbuda;zona_roaming_3
+34857;CCT;Islas Virgenes britanicas;zona_roaming_3
+35001;AT&T;Bermuda;zona_roaming_2
+36251;TELCELL ST MAARTEN;Antillas Hol. (Saint Maarten/San Martin);zona_roaming_3
+36269;POLYCOM;Curasao;zona_roaming_1
+36301;Setar;Aruba;zona_roaming_3
+36302;Digicel Aruba;Aruba;zona_roaming_3
+36439;BTC;Bahamas;zona_roaming_3
+36801;Cubacell;Cuba;zona_roaming_3
+37001;Orange;Republica Dominicana;zona_roaming_3
+37002;CLARO;Republica Dominicana;zona_roaming_3
+37004;VIVA (Trilogy);Republica Dominicana;zona_roaming_3
+37201;Comcel;Haiti;zona_roaming_3
+37412;TSTT;Trinidad & Tobago;zona_roaming_3
+40001;Azercell;Azerbaiyan;zona_roaming_3
+40002;Bakcell;Azerbaiyan;zona_roaming_3
+40004;Azerfon;Azerbaiyan;zona_roaming_3
+40101;Kar Tel;Kazajistan;zona_roaming_3
+40102;Kcell;Kazajistan;zona_roaming_3
+40177;Tele2;Kazajistan;zona_roaming_3
+40402;Bharti Airtel;India;zona_roaming_3
+40403;Bharti Airtel;India;zona_roaming_3
+40404;IDEA Delhi;India;zona_roaming_3
+40405;Vodafone Essar Gujarat;India;zona_roaming_3
+40407;IDEA Andhra Pr;India;zona_roaming_3
+40410;Bharti Airtel;India;zona_roaming_3
+40411;Vodafone New Delhi;India;zona_roaming_3
+40412;IDEA Haryana;India;zona_roaming_3
+40414;IDEA Punjab;India;zona_roaming_3
+40416;Bharti Airtel;India;zona_roaming_3
+40417;Aircel;India;zona_roaming_3
+40419;IDEA Kerala;India;zona_roaming_3
+40420;Vodafone Essar Mumbai;India;zona_roaming_3
+40421;BPL Mobile Comms;India;zona_roaming_3
+40422;IDEA Maharashtra-Birla;India;zona_roaming_3
+40424;IDEA Gujarat;India;zona_roaming_3
+40425;Aircel;India;zona_roaming_3
+40427;Vodafone Maharashtra;India;zona_roaming_3
+40428;Aircel;India;zona_roaming_3
+40429;Aircel;India;zona_roaming_3
+40430;Vodafone Kolkata;India;zona_roaming_3
+40431;Bharti Airtel;India;zona_roaming_3
+40433;Aircel;India;zona_roaming_3
+40435;Aircel;India;zona_roaming_3
+40437;Aircel;India;zona_roaming_3
+40440;Bharti Airtel;India;zona_roaming_3
+40441;Aircel;India;zona_roaming_3
+40442;Aircel;India;zona_roaming_3
+40443;Vodafone Tamilnadu;India;zona_roaming_3
+40444;IDEA Karnataka;India;zona_roaming_3
+40445;Bharti Airtel;India;zona_roaming_3
+40446;Vodafone Kerala;India;zona_roaming_3
+40449;Bharti Airtel;India;zona_roaming_3
+40456;IDEA UW & Uttar Pradesh;India;zona_roaming_3
+40467;Reliance Telecom Limited;India;zona_roaming_3
+40470;Bharti Airtel;India;zona_roaming_3
+40474;BSNL;India;zona_roaming_3
+40478;IDEA Madhya Pradesh;India;zona_roaming_3
+40482;IDEA Himachal Pradesh;India;zona_roaming_3
+40487;IDEA Rajasthan;India;zona_roaming_3
+40489;IDEA India Uttar Pradesh (UP)-East;India;zona_roaming_3
+40490;Bharti Airtel;India;zona_roaming_3
+40491;Aircel;India;zona_roaming_3
+40492;Bharti Airtel;India;zona_roaming_3
+40493;Bharti Airtel;India;zona_roaming_3
+40494;Bharti Airtel;India;zona_roaming_3
+40495;Bharti Airtel;India;zona_roaming_3
+40496;Bharti Airtel;India;zona_roaming_3
+40497;Bharti Airtel;India;zona_roaming_3
+40498;Bharti Airtel;India;zona_roaming_3
+40502;Tata;India;zona_roaming_3
+40503;Tata;India;zona_roaming_3
+40504;Tata;India;zona_roaming_3
+40551;Bharti Airtel;India;zona_roaming_3
+40552;Bharti Airtel;India;zona_roaming_3
+40553;Bharti Airtel;India;zona_roaming_3
+40554;Bharti Airtel;India;zona_roaming_3
+40555;Bharti Airtel;India;zona_roaming_3
+40556;Bharti Airtel;India;zona_roaming_3
+40570;IDEA Bihar Jhark;India;zona_roaming_3
+40579;IDEA Mumbai;India;zona_roaming_3
+40580;Aircel;India;zona_roaming_3
+40584;IDEA Kolkata;India;zona_roaming_3
+40585;IDEA Tamil Nadu Ch;India;zona_roaming_3
+41003;Ufone;Pakistan;zona_roaming_3
+41004;CMPak Limited;Pakistan;zona_roaming_3
+41006;Telenor;Pakistan;zona_roaming_3
+41220;TDAC;Afganistan;zona_roaming_3
+41250;Etisalat;Afganistan;zona_roaming_3
+41301;Mobitel;Sri Lanka;zona_roaming_3
+41302;Dialog Telekom;Sri Lanka;zona_roaming_3
+41303;Etisalat (Tigo);Sri Lanka;zona_roaming_3
+41305;Bharti Airtel;Sri Lanka;zona_roaming_3
+41401;MECTel;Myanmar;zona_roaming_3
+41405;Ooredoo;Myanmar;zona_roaming_3
+41501;MIC1;Libano;zona_roaming_3
+41503;MIC2;Libano;zona_roaming_3
+41601;FastLink;Jordania;zona_roaming_3
+41603;Xpress;Jordania;zona_roaming_3
+41677;Orange;Jordania;zona_roaming_3
+41702;MTN;Syria;zona_roaming_3
+41805;Asia Cell;Irak;zona_roaming_3
+41820;Atheer Telecom;Irak;zona_roaming_3
+41830;Orascom Telecom;Irak;zona_roaming_3
+41840;Korek;Irak;zona_roaming_3
+41902;Vodafone;Kuwait;zona_roaming_3
+41903;Al-Wataniya Telecom;Kuwait;zona_roaming_3
+41904;VIVA - KTC;Kuwait;zona_roaming_3
+42001;Saudi Telecom;Arabia Saudi;zona_roaming_3
+42003;Etihad Etisalat;Arabia Saudi;zona_roaming_3
+42004;Zain;Arabia Saudi;zona_roaming_3
+42102;Spacetel;Yemen;zona_roaming_3
+42202;Oman Mobile;Oman;zona_roaming_3
+42203;NAWRAS;Oman;zona_roaming_3
+42402;Etisalat;Emiratos Arabes Unidos;zona_roaming_3
+42403;DU;Emiratos Arabes Unidos;zona_roaming_3
+42501;Orange;Israel;zona_roaming_3
+42502;Cellcom;Israel;zona_roaming_3
+42503;Pelephone;Israel;zona_roaming_3
+42505;Jawwal;Palestina;zona_roaming_3
+42506;Wataniya Mobile;Palestina;zona_roaming_3
+42601;Batelco;Bahrein;zona_roaming_3
+42604;VIVA;Bahrein;zona_roaming_3
+42701;Qtel;Qatar;zona_roaming_3
+42702;Vodafone;Qatar;zona_roaming_3
+42888;Unitel;Mongolia;zona_roaming_3
+42901;NTC Mobile;Nepal;zona_roaming_3
+42902;Spice;Nepal;zona_roaming_3
+43211;MCI;Iran;zona_roaming_3
+43404;Unitel;Uzbekistan;zona_roaming_3
+43405;Coscom;Uzbekistan;zona_roaming_3
+43601;Indigo;Tayikistan;zona_roaming_3
+43602;Indigo;Tayikistan;zona_roaming_3
+43604;Babilon;Tayikistan;zona_roaming_3
+43605;Tacom;Tayikistan;zona_roaming_3
+43705;Bimocom/Megacom;Kirguistan;zona_roaming_3
+43709;NUR;Kirguistan;zona_roaming_3
+43801;BCTI;Turkmenistan;zona_roaming_3
+43802;Tmcell;Turkmenistan;zona_roaming_3
+44010;NTT Docomo;Japon;zona_roaming_3
+44050;KDDI;Japon;zona_roaming_3
+44051;KDDI;Japon;zona_roaming_3
+45002;KT;Corea S;zona_roaming_3
+45005;SKTelecom;Corea S;zona_roaming_3
+45006;LGUPlus;Corea S;zona_roaming_3
+45008;KT;Corea S;zona_roaming_3
+45201;VMS / Mobifone;Vietnam;zona_roaming_3
+45202;Vinaphone;Vietnam;zona_roaming_3
+45204;Viettel;Vietnam;zona_roaming_3
+45205;Vietnamobile;Vietnam;zona_roaming_3
+45207;Beeline;Vietnam;zona_roaming_3
+45400;Hong Kong CSL;Hong Kong;zona_roaming_3
+45402;Hong Kong CSL;Hong Kong;zona_roaming_3
+45403;Hutchinson;Hong Kong;zona_roaming_3
+45404;Hutchinson;Hong Kong;zona_roaming_3
+45406;SmarTone Mobile;Hong Kong;zona_roaming_3
+45410;New World;Hong Kong;zona_roaming_3
+45412;China Mobile;Hong Kong;zona_roaming_3
+45416;SUNDAY;Hong Kong;zona_roaming_3
+45418;Hong Kong CSL;Hong Kong;zona_roaming_3
+45419;SUNDAY;Hong Kong;zona_roaming_3
+45501;CTM;Macao;zona_roaming_3
+45503;Hutchinson/T-Systems;Macao;zona_roaming_3
+45602;Latelz;Camboya;zona_roaming_3
+45604;Cadcom;Camboya;zona_roaming_3
+45605;Applifone;Camboya;zona_roaming_3
+45606;Latelz;Camboya;zona_roaming_3
+45608;Mfone;Camboya;zona_roaming_3
+45618;Mfone;Camboya;zona_roaming_3
+45701;Laos Telecom;Laos;zona_roaming_3
+45708;Millicom / Tigo;Laos;zona_roaming_3
+46000;China Mobile;China;zona_roaming_3
+46001;China Unicom;China;zona_roaming_3
+46002;China Mobile;China;zona_roaming_3
+46007;China Mobile;China;zona_roaming_3
+46009;China Unicom;China;zona_roaming_3
+46601;Far EasTone;Taiwan;zona_roaming_3
+46688;Far EasTone;Taiwan;zona_roaming_3
+46689;Vibo;Taiwan;zona_roaming_3
+46692;Chunghwa;Taiwan;zona_roaming_3
+46693;Taiwan Mobile;Taiwan;zona_roaming_3
+46697;Taiwan Mobile;Taiwan;zona_roaming_3
+46699;Taiwan Mobile;Taiwan;zona_roaming_3
+47001;Grameenphone;Bangladesh;zona_roaming_3
+47003;Banglalink;Bangladesh;zona_roaming_3
+47007;Warid Telecom;Bangladesh;zona_roaming_3
+47202;AT&T Wataniya;Maldivas;zona_roaming_3
+50212;Maxis;Malasia;zona_roaming_3
+50213;Celcom TM Touch;Malasia;zona_roaming_3
+50216;Digi;Malasia;zona_roaming_3
+50218;UMobile(MTV3G);Malasia;zona_roaming_3
+50219;Celcom TM Touch;Malasia;zona_roaming_3
+50501;Telstra;Australia;zona_roaming_3
+50502;SignTel;Australia;zona_roaming_3
+50503;Vodafone;Australia;zona_roaming_3
+51001;PT. Satelindo;Indonesia;zona_roaming_3
+51008;Axis;Indonesia;zona_roaming_3
+51010;PT Telkomsel;Indonesia;zona_roaming_3
+51011;XL;Indonesia;zona_roaming_3
+51021;INDOSAT-M3;Indonesia;zona_roaming_3
+51089;Hutchinson 3;Indonesia;zona_roaming_3
+51502;Globe Telecom;Filipinas;zona_roaming_3
+51503;SMART;Filipinas;zona_roaming_3
+51505;Digitel (SUN Cellular);Filipinas;zona_roaming_3
+52000;True Move;Tailandia;zona_roaming_3
+52001;AIS;Tailandia;zona_roaming_3
+52003;AWN;Tailandia;zona_roaming_3
+52004;Real Future;Tailandia;zona_roaming_3
+52005;Dtac;Tailandia;zona_roaming_3
+52018;DTAC;Tailandia;zona_roaming_3
+52099;True Move;Tailandia;zona_roaming_3
+52501;Singtel;Singapur;zona_roaming_3
+52502;Singtel;Singapur;zona_roaming_3
+52505;Starhub;Singapur;zona_roaming_3
+52802;B-MOBILE;Brunei;zona_roaming_3
+53001;Vodafone;Nueva Zelanda;zona_roaming_3
+53024;NZL / Two Degrees;Nueva Zelanda;zona_roaming_3
+53703;Digicel;Papua Nueva Guinea;zona_roaming_3
+53988;Digicel;Tonga;zona_roaming_3
+54101;Telecom TVL;Vanuatu;zona_roaming_3
+54105;Digicel;Vanuatu;zona_roaming_3
+54202;Digitel;Fiji;zona_roaming_3
+54601;Mobilis;Nueva Caledonia;zona_roaming_3
+54715;Pacific Mobile;Francia;zona_roaming_3
+54720;Vini;Francia;zona_roaming_3
+54801;Telecom Cook Island;Cook Island;zona_roaming_3
+54927;Samoatel;Samoa;zona_roaming_3
+60201;Mobinil(ECMS);Egipto;zona_roaming_3
+60202;Vodafone;Egipto;zona_roaming_3
+60203;ETISALAT;Egipto;zona_roaming_3
+60301;ATM;Argelia;zona_roaming_2
+60302;Djezzy;Argelia;zona_roaming_2
+60303;Wataniya Telecom;Argelia;zona_roaming_2
+60400;Medi Telecom;Marruecos;zona_roaming_2
+60401;IAM (Itissalat);Marruecos;zona_roaming_2
+60402;Wana;Marruecos;zona_roaming_2
+60501;Orange;Tunez;zona_roaming_2
+60502;Tunisie Telecom ;Tunez;zona_roaming_2
+60503;Orascom;Tunez;zona_roaming_2
+60506;Tunisie Telecom ;Tunez;zona_roaming_2
+60601;Al Madar;Libia;zona_roaming_3
+60701;Gamcel;Gambia;zona_roaming_3
+60702;Africell;Gambia;zona_roaming_3
+60703;Comium;Gambia;zona_roaming_3
+60801;Orange;Senegal;zona_roaming_3
+60802;Sentel;Senegal;zona_roaming_3
+60901;MATTEL;Mauritania;zona_roaming_3
+60910;Mauritel;Mauritania;zona_roaming_3
+61002;Orange;Mali;zona_roaming_3
+61101;Orange;Guinea;zona_roaming_3
+61103;Intercel;Guinea;zona_roaming_3
+61202;Moov /telecel;Costa de Marfil;zona_roaming_3
+61203;Orange;Costa de Marfil;zona_roaming_3
+61205;MTN;Costa de Marfil;zona_roaming_3
+61301;Onatel (Telmob);Burkina Faso;zona_roaming_3
+61403;Telecel;Niger;zona_roaming_3
+61404;Orange;Niger;zona_roaming_3
+61503;Moov /telecel;Togo;zona_roaming_3
+61601;Libercom;Benin;zona_roaming_3
+61602;Etisalat;Benin;zona_roaming_3
+61701;Cellplus (Orange);Isla Mauricio;zona_roaming_3
+61703;MTML;Isla Mauricio;zona_roaming_3
+61710;Emtel;Isla Mauricio;zona_roaming_3
+61801;LONESTAR;LIBERIA;zona_roaming_3
+61807;Celcom (AT&T);Liberia;zona_roaming_3
+61904;Comium;Sierra Leona;zona_roaming_3
+62002;One Touch;Ghana;zona_roaming_3
+62006;Airtel;Ghana;zona_roaming_3
+62120;Econet;Nigeria;zona_roaming_3
+62130;MTN;Nigeria;zona_roaming_3
+62160;Etisalat;Nigeria;zona_roaming_3
+62203;MIC;Chad;zona_roaming_3
+62303;Orange;Centroafricana Rep.;zona_roaming_3
+62402;Orange;Camerun;zona_roaming_3
+62501;CVMOVEL;Cabo Verde;zona_roaming_3
+62502;T Cap Verd;Cabo Verde;zona_roaming_3
+62601;CST;Sao Tome and Principe;zona_roaming_3
+62701;Orange;Guinea Ecuatorial;zona_roaming_3
+62802;Telecel;Gabon;zona_roaming_3
+62803;Celtel;Gabon;zona_roaming_3
+62910;MTN;Congo;zona_roaming_3
+63001;Vodacom;Congo Rep. Dem.;zona_roaming_3
+63002;Celtel;Congo Rep. Dem.;zona_roaming_3
+63086;Orange;Congo Rep. Dem.;zona_roaming_3
+63089;Orange;Congo Rep. Dem.;zona_roaming_3
+63102;Unitel;Angola;zona_roaming_3
+63104;Movicell;Angola;zona_roaming_3
+63202;MTN;Guinea Bissau;zona_roaming_3
+63203;Orange;Guinea Bissau;zona_roaming_3
+63301;C&W;Seychelles;zona_roaming_3
+63310;Airtel;Seychelles;zona_roaming_3
+63402;Aareba / MTN;Sudan;zona_roaming_3
+63510;MTN;Ruanda;zona_roaming_3
+63512;Rwandatel;Ruanda;zona_roaming_3
+63513;Tigo;Ruanda;zona_roaming_3
+63601;ETC;Etiopia;zona_roaming_3
+63902;Safaricom;Kenia;zona_roaming_3
+63903;KenCell;Kenia;zona_roaming_3
+63905;Essar Telecom;Kenia;zona_roaming_3
+63907;Orange;Kenia;zona_roaming_3
+64003;Zantel;Tanzania;zona_roaming_3
+64004;Vodacom;Tanzania;zona_roaming_3
+64005;Celtel Zain;Tanzania;zona_roaming_3
+64111;Uganda Telecom Limited (UTL);Uganda;zona_roaming_3
+64114;Orange;Uganda;zona_roaming_3
+64122;Warid Telecom;Uganda;zona_roaming_3
+64202;Africell;Burundi;zona_roaming_3
+64282;Telecel;Burundi;zona_roaming_3
+64301;MCELL;Mozambique;zona_roaming_3
+64303;Movitel;Mozambique;zona_roaming_3
+64304;Vodacom;Mozambique;zona_roaming_3
+64502;MTN;Zambia;zona_roaming_3
+64503;Cellz(Zamtel);Zambia;zona_roaming_3
+64601;Madacom / ZAIN;Madagascar;zona_roaming_3
+64602;Orange;Madagascar;zona_roaming_3
+64604;Telma;Madagascar;zona_roaming_3
+64700;Orange;Reunion/ Mayotte;zona_roaming_1
+64801;NetOne;Zimbabwe;zona_roaming_3
+64803;Telecel;Zimbabwe;zona_roaming_3
+64804;ECONET;Zimbabwe;zona_roaming_3
+64901;MTC;Namibia;zona_roaming_3
+64903;Leo (Cellone);Namibia;zona_roaming_3
+65001;TNM Telekom;Malawi;zona_roaming_3
+65202;Orange;Botswana;zona_roaming_3
+65310;MTN;Swazilandia;zona_roaming_3
+65501;Vodacom;Sudafrica;zona_roaming_3
+65507;CELL C;Sudafrica;zona_roaming_3
+65510;MTN;Sudafrica;zona_roaming_3
+70267;BLT;Belice;zona_roaming_3
+70401;Claro;Guatemala;zona_roaming_3
+70403;Movistar;Guatemala;zona_roaming_3
+70601;CTE Personal;El Salvador;zona_roaming_3
+70602;Digicel;El Salvador;zona_roaming_3
+70604;Telefonica Moviles;El Salvador;zona_roaming_3
+70800;Megatel;Honduras;zona_roaming_3
+70802;Tigo;Honduras;zona_roaming_3
+70840;Digicel;Honduras;zona_roaming_3
+71021;Enitel;Nicaragua;zona_roaming_3
+71030;Telefonica Moviles;Nicaragua;zona_roaming_3
+71201;ICE;Costa Rica;zona_roaming_3
+71203;Claro;Costa Rica;zona_roaming_3
+71204;Telefonica;Costa Rica;zona_roaming_3
+71401;C&W;Panama;zona_roaming_3
+71402;Movistar;Panama;zona_roaming_3
+71403;Claro;Panama;zona_roaming_3
+71606;Movistar;Peru;zona_roaming_3
+71607;Nextel;Peru;zona_roaming_3
+71610;Claro;Peru;zona_roaming_3
+71617;Entel;Peru;zona_roaming_3
+72207;Telefonica Moviles;Argentina;zona_roaming_3
+72231;Claro;Argentina;zona_roaming_3
+72234;TelecomPersonal;Argentina;zona_roaming_3
+72400;Nextel;Brasil;zona_roaming_3
+72402;TIM Brasil;Brasil;zona_roaming_3
+72403;TIM Brasil;Brasil;zona_roaming_3
+72404;TIM Brasil;Brasil;zona_roaming_3
+72405;Claro;Brasil;zona_roaming_3
+72406;VIVO;BRASIL;zona_roaming_3
+72410;VIVO;BRASIL;zona_roaming_3
+72411;VIVO;BRASIL;zona_roaming_3
+72416;14 Brasil Telecom;Brasil;zona_roaming_3
+72423;VIVO MG;BRASIL;zona_roaming_3
+72424;Amazonia Celular;Brasil;zona_roaming_3
+72431;TNL PCS;Brasil;zona_roaming_3
+73001;Entel;Chile;zona_roaming_3
+73002;Movistar;Chile;zona_roaming_3
+73003;Claro;Chile;zona_roaming_3
+73008;VTR;Chile;zona_roaming_3
+73210;Comcel;Colombia;zona_roaming_3
+73211;Colombia Movil;Colombia;zona_roaming_3
+73212;Movistar;Colombia;zona_roaming_3
+73402;Digitel;Venezuela;zona_roaming_3
+73404;Movistar;Venezuela;zona_roaming_3
+73406;Movilnet;Venezuela;zona_roaming_3
+73601;Nuevatel;Bolivia;zona_roaming_3
+73602;Entel;Bolivia;zona_roaming_3
+73603;Telefonica Cell;BOLIVIA;zona_roaming_3
+73801;U-Mobile/Digicel;Guyana;zona_roaming_1
+74000;Telefonica Ecuador;Ecuador;zona_roaming_3
+74001;Conecel;Ecuador;zona_roaming_3
+74002;CNT;Ecuador;zona_roaming_3
+74401;Hola;Paraguay;zona_roaming_3
+74402;Claro;Paraguay;zona_roaming_3
+74404;Tigo;Paraguay;zona_roaming_3
+74602;Telesur;Surinam;zona_roaming_3
+74801;Antel;Uruguay;zona_roaming_3
+74807;Movistar;Uruguay;zona_roaming_3
+74810;Claro;Uruguay;zona_roaming_3
+90105;Thuraya;Emiratos Arabes Unidos;zona_roaming_3
+90112;MCP;Noruega;zona_roaming_3
+90114;AeroMobile;Noruega;zona_roaming_3
+90115;OnAir;Maritime;zona_roaming_3
+90119;Vodafone;Malta;zona_roaming_3
+90121;Seanet;Suecia;zona_roaming_3
+90126;TIM;Italia;zona_roaming_3
+90128;Vodafone M2M Malta;Malta;zona_roaming_3
+90131;Orange M2M;Francia;zona_roaming_3
+90137;Transatel;Francia;zona_roaming_3
+90139;MTX Connect;Luxemburgo;zona_roaming_3
+90140;Telekom Deutschland;Alemania;zona_roaming_3
+90143;EMnify GmbH;Alemania;zona_roaming_3

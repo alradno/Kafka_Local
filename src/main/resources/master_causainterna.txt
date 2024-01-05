@@ -1,0 +1,20 @@
+CAUSE;CAUSA_INTERNA
+0;Not used
+1;Unassigned (unallocated) number
+2;Channel unacceptable
+3;Normal clearing
+4;User busy
+5;No user responding
+6;Call rejected
+7;Number changed
+8;Destination out of service
+9;Invalid number format
+10;Address incomplete
+11;Facility rejected
+12;Response to STATUS enquiry
+13;Normal, unspecified
+14;No channel/circuit available
+15;Network out of order
+16;Temporary failure
+17;Switching equipment congestion
+18;Access information discarded
